@@ -6,3 +6,7 @@ var test = function() {
 var dev = function() {
     console.log('devBranch');
 }
+
+var checkTask = function() {
+    console.log(testTask);
+}
